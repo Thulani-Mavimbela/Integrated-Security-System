@@ -1,5 +1,6 @@
-# Integrated-Security-System
-My first python project 
+# Integrated Security System Portfolio
+
+## Alarm, CCTV, Fire & Access Control Systems
 integrated-alarm-system-portfolio/
 │
 ├── README.md
