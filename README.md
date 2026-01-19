@@ -1,5 +1,11 @@
 # Integrated Security System Portfolio
 
+This portfolio demonstrates my practical understanding of integrated security systems,
+including intruder alarms, CCTV, fire detection, access control, and basic network security.
+
+It is designed for junior-level roles in alarm installation, monitoring, and integrated
+security environments.
+
 ## Alarm, CCTV, Fire & Access Control Systems
 integrated-alarm-system-portfolio/
 │
